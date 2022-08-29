@@ -68,8 +68,8 @@ class automovil:
 
 ![club penguin logo](https://fotografias-neox.atresmedia.com/clipping/cmsimages02/2022/04/19/29E079D9-BC57-431F-AEF6-D60F3282DF0A/club-penguin_98.jpg?crop=1280,720,x0,y42&width=1900&height=1069&optimize=high&format=webply)
 
-<!--GitHub Markdown>
+<!--GitHub Markdown-->
 * [X] Task1
-* [X] Task2
+* [ ] Task2
 * [X] Task3
-* [X] Task4
+* [ ] Task4
